@@ -15,7 +15,10 @@ https://trello.com/b/6ZOWkQXU/stage-dvic
 ![GitHub Logo](/images/state_machine.png)
 
 ## Development Goals
-2 May: Project will be usable in less than 10 days :sunflower:
+2 May: Project will be usable by 11 May :sunflower:
+
+### Contributions that are welcome
+:black_square_button: These will be outlined by 11 May
 
 ### Project security
 :ballot_box_with_check: Upload project from ThomasCarstens PC
