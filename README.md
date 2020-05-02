@@ -31,4 +31,4 @@ More details in less than 10 days :smiley:
 
 :black_square_button: One tutorial for HOW to collaborate (Github, Unit Tests e.g. does it work and does it integrate)
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/images/state_machine.png)
