@@ -3,8 +3,7 @@
 A custom wheeled robot in Gazebo's postoffice world. When the DRIVE button is pressed, the robot detects the RED gate, and drives toward it. Other functionality helps it get to its goal.
 
 ### Demo
-#### Robot drives to goal
-https://drive.google.com/file/d/1rYaJ3Cpv5fvkwflFxktoz0EMZJfkWf6i/view?usp=sharing
+#### Robot drives to goal: https://drive.google.com/file/d/1rYaJ3Cpv5fvkwflFxktoz0EMZJfkWf6i/view?usp=sharing
 
 ### Project Stack
 ROS+Gazebo+Python+OpenCV (see tutorials, they are listed below)
