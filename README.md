@@ -15,7 +15,7 @@ updated by 11 May
 https://trello.com/b/6ZOWkQXU/stage-dvic
 
 ## :soon: Current Functionality
-This is a state machine for the robot, it will be updated by 11 May.
+This is a SMACH state machine for the robot, it will be updated by 11 May.
 ![GitHub Logo](/images/state_machine.png)
 
 
