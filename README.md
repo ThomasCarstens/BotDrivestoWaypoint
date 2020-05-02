@@ -20,7 +20,7 @@ Changelog: https://trello.com/b/6ZOWkQXU/stage-dvic
 :black_square_button: Github files are setup for any virtualenv.
 
 ### Project demo
-:ballot_box_with_check: Demo is possible but...
+:ballot_box_with_check: Can be demoed in 5min from ThomasCarstens PC but...
 
 :black_square_button: Integrating the workspaces
 
