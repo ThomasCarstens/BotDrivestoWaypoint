@@ -1,8 +1,9 @@
 # BotDrivestoWaypoint
 
-A custom wheeled robot in a postoffice world. When the DRIVE button is pressed, the robot detects the RED gate, and navigates toward it. Other functionality helps it get to its goal.
+A custom wheeled robot in Gazebo's postoffice world. When the DRIVE button is pressed, the robot detects the RED gate, and drives toward it. Other functionality helps it get to its goal.
 
 ### Demo
+#### Robot drives to goal
 https://drive.google.com/file/d/1rYaJ3Cpv5fvkwflFxktoz0EMZJfkWf6i/view?usp=sharing
 
 ### Project Stack
