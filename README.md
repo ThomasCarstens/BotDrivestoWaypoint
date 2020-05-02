@@ -14,8 +14,8 @@ updated by 11 May
 ### Official Changelog :sunflower:
 https://trello.com/b/6ZOWkQXU/stage-dvic
 
-## Current Functionality
-:soon: This is a state machine for the robot, it will be updated by 11 May.
+## :soon: Current Functionality
+This is a state machine for the robot, it will be updated by 11 May.
 ![GitHub Logo](/images/state_machine.png)
 
 
