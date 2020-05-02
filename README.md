@@ -3,13 +3,12 @@
 A custom wheeled robot in a postoffice world. When the DRIVE button is pressed, the robot detects the RED gate, and navigates toward it. Other functionality helps it get to its goal.
 
 Demo: https://drive.google.com/file/d/1rYaJ3Cpv5fvkwflFxktoz0EMZJfkWf6i/view?usp=sharing
-![GitHub Logo](/images/0NSBKZe.gif)
 
-Stack: ROS+Gazebo+Python+OpenCV
+Stack: ROS+Gazebo+Python+OpenCV (see tutorials, they are listed below)
 
 Changelog: https://trello.com/b/6ZOWkQXU/stage-dvic
 
-## Project State Machine (currently experimental)
+## Current Functionality
 ![GitHub Logo](/images/state_machine.png)
 
 ## Development Goals
@@ -38,6 +37,7 @@ Changelog: https://trello.com/b/6ZOWkQXU/stage-dvic
 
 :black_square_button: One tutorial for HOW to collaborate (Github, Unit Tests e.g. does it work and does it integrate)
 
+![GitHub Logo](/images/0NSBKZe.gif)
 
 
 
