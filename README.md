@@ -27,7 +27,7 @@ https://trello.com/b/6ZOWkQXU/stage-dvic
 ### Project security
 :ballot_box_with_check: Upload project from ThomasCarstens PC
 
-:black_square_button: Github files are setup for any virtualenv.
+:black_square_button: Github files are setup for any machine that runs Ubuntu 18.04.
 
 ### Project demo
 :ballot_box_with_check: Can be demoed in 5min from ThomasCarstens PC but...
