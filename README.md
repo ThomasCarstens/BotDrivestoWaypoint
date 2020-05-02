@@ -31,4 +31,8 @@ More details in less than 10 days :smiley:
 
 :black_square_button: One tutorial for HOW to collaborate (Github, Unit Tests e.g. does it work and does it integrate)
 
+## Project State Machine (currently experimental)
 ![GitHub Logo](/images/state_machine.png)
+
+## Demo GIF (currently experimental)
+![GitHub Logo](/images/0NSBKZe.gif)
