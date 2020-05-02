@@ -13,10 +13,12 @@ Changelog: https://trello.com/b/6ZOWkQXU/stage-dvic
 ![GitHub Logo](/images/state_machine.png)
 
 ## Development Goals
-2 May: All checkboxes will be checked in less than 10 days :smiley:
+2 May: Project will be usable in less than 10 days :smiley:
 
 ### Project security
 :ballot_box_with_check: Upload project from ThomasCarstens PC
+
+:black_square_button: Github files are setup for any virtualenv.
 
 ### Project demo
 :ballot_box_with_check: Demo is possible but...
