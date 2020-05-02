@@ -6,7 +6,7 @@ A custom wheeled robot in Gazebo's postoffice world. When the DRIVE button is pr
 #### Robot drives to goal: https://drive.google.com/file/d/1rYaJ3Cpv5fvkwflFxktoz0EMZJfkWf6i/view?usp=sharing
 
 ### Project Stack
-Python->OpenCV->ROS->Gazebo (see tutorials, they are listed below)
+Ubuntu18.04->Python2.7->OpenCV4.1.1->ROS Melodic->Gazebo9 (see tutorials, they are listed below)
 
 ### Startup
 :soon: by 11 May
