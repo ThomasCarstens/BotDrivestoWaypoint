@@ -31,7 +31,7 @@ Suggestions will be listed here by 11 May
 :black_square_button: Github files are setup for any machine that runs Ubuntu 18.04.
 
 ### Project demo
-:ballot_box_with_check: Can be demoed in 5min from ThomasCarstens PC but...
+:ballot_box_with_check: Can be demoed in 5min from ThomasCarstens PC but still needs work on...
 
 :black_square_button: Integrating the workspaces
 
