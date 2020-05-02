@@ -8,11 +8,13 @@ A custom wheeled robot in Gazebo's postoffice world. When the DRIVE button is pr
 ### Project Stack
 Python->OpenCV->ROS->Gazebo (see tutorials, they are listed below)
 
+### Startup
+:soon: by 11 May
 ### Official Changelog :sunflower:
 https://trello.com/b/6ZOWkQXU/stage-dvic
 
 ## Current Functionality
-This is a state machine for the robot, it will be updated by 11 May.
+:soon: This is a state machine for the robot, it will be updated by 11 May.
 ![GitHub Logo](/images/state_machine.png)
 
 
@@ -20,7 +22,7 @@ This is a state machine for the robot, it will be updated by 11 May.
 2 May: Project will be usable by 11 May :sunflower:
 
 ### Contributions are welcome
-:black_square_button: Suggestions will be listed here by 11 May
+:soon: Suggestions will be listed here by 11 May
 
 ### Project security
 :ballot_box_with_check: Upload project from ThomasCarstens PC
