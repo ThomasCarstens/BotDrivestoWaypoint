@@ -39,7 +39,7 @@ See table above for suggestions, then please contact me at thomaxarstens@gmail.c
 ### Project security
 :ballot_box_with_check: Upload project from ThomasCarstens PC
 
-:black_square_button: Users must fork .. and contributions are merged by pull request.
+:ballot_box_with_check: Collaborators must fork https://github.com/AlphaPilotFrance/BotDrivestoWaypoint and contributions are merged by pull request.
 
 ### Project demo
 :ballot_box_with_check: Can be demoed in 5min from ThomasCarstens PC but still needs work on...
