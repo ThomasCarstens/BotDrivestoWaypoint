@@ -10,7 +10,6 @@ Ubuntu18.04->Python2.7->OpenCV4.1.1->ROS Melodic->Gazebo9 (see tutorials, they a
 <p align="center">
   <img width="460" height="300" src="/BotWaypointStack.PNG">
 </p>
-![BotWaypointStack](/BotWaypointStack.PNG)
 
 ### :soon: How to run project
 updated by 11 May 
