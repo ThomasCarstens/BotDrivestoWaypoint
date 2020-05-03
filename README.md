@@ -7,6 +7,9 @@ A custom wheeled robot in Gazebo's postoffice world. When the DRIVE button is pr
 
 ### Project Stack
 Ubuntu18.04->Python2.7->OpenCV4.1.1->ROS Melodic->Gazebo9 (see tutorials, they are listed below)
+<p align="center">
+  <img width="460" height="300" src="/BotWaypointStack.PNG">
+</p>
 ![BotWaypointStack](/BotWaypointStack.PNG)
 
 ### :soon: How to run project
