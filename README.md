@@ -22,8 +22,28 @@ This is a SMACH state machine for the robot, it will be updated by 11 May.
 ## Development Goals
 2 May: Project will be usable by 11 May :sunflower:
 
-### :soon: Contributions are welcome
+## :soon: Contributions are welcome
 Suggestions will be listed here by 11 May
+
+### Bot detects colour 
+
+:heavy_check_mark: Gazebo-OpenCV Integration
+
+:heavy_check_mark: OpenCV-ROS Integration
+
+:heavy_multiplication_x: Action Server Integration
+
+:heavy_multiplication_x: Virtualenv Integration
+
+### Bot detects distance
+
+:heavy_check_mark: Gazebo-OpenCV Integration
+
+:heavy_check_mark: ROS node Integration
+
+:heavy_multiplication_x: Action Server Integration 
+
+:heavy_multiplication_x: Virtualenv Integration
 
 ### Project security
 :ballot_box_with_check: Upload project from ThomasCarstens PC
