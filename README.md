@@ -18,41 +18,18 @@ https://trello.com/b/6ZOWkQXU/stage-dvic
 This is a SMACH state machine for the robot, it will be updated by 11 May.
 ![GitHub Logo](/images/state_machine.png)
 
-
-## Development Goals
-2 May: Project will be usable by 11 May :sunflower:
-
 ## :soon: Contributions are welcome
 Suggestions will be listed here by 11 May
 
-| ### Bot detects colour  | ### Bot detects distance |
+| Bot detects colour  | Bot detects distance |
 | ------------- | ------------- |
 | :heavy_check_mark: Gazebo-OpenCV Integration  | :heavy_check_mark: Gazebo-LiDAR Integration  |
 | :heavy_check_mark: OpenCV-ROS Integration  | :heavy_check_mark: LiDAR-ROS node Integration  |
 | :heavy_multiplication_x: Action Server Integration  | :heavy_multiplication_x: Action Server Integration  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| :heavy_multiplication_x: Virtualenv Integration  | :heavy_multiplication_x: Virtualenv Integration  |
 
-### Bot detects colour 
-
-:heavy_check_mark: Gazebo-OpenCV Integration
-
-:heavy_check_mark: OpenCV-ROS Integration
-
-:heavy_multiplication_x: Action Server Integration
-
-:heavy_multiplication_x: Virtualenv Integration
-
-### Bot detects distance
-
-:heavy_check_mark: Gazebo-LiDAR Integration
-
-:heavy_check_mark: LiDAR-ROS node Integration
-
-:heavy_multiplication_x: Action Server Integration 
-
-:heavy_multiplication_x: Virtualenv Integration
+## Development Goals
+2 May: Project will be usable by 11 May :sunflower:
 
 ### Project security
 :ballot_box_with_check: Upload project from ThomasCarstens PC
