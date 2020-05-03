@@ -26,6 +26,7 @@ updated by 11 May
 | :heavy_multiplication_x: Virtualenv Integration  | :heavy_multiplication_x: Virtualenv Integration  | :heavy_multiplication_x: Virtualenv Integration  |
 
 This is a SMACH state machine for the robot, it will be updated by 11 May.
+
 ![GitHub Logo](/images/state_machine.png)
 
 ## :soon: Contributions are welcome
@@ -40,6 +41,7 @@ See suggestions, then please contact me at thomaxarstens@gmail.com
 ### Official Changelog :sunflower:
 https://trello.com/b/6ZOWkQXU/stage-dvic
 
+![Changelog Board](/Changelog.PNG)
 
 ## The Steps to Usability
 
