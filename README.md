@@ -15,11 +15,7 @@ updated by 11 May
 https://trello.com/b/6ZOWkQXU/stage-dvic
 
 ## :soon: Current Functionality
-This is a SMACH state machine for the robot, it will be updated by 11 May.
-![GitHub Logo](/images/state_machine.png)
 
-## :soon: Contributions are welcome
-Suggestions will be listed here by 11 May
 
 | Bot can move  | Bot detects colour  | Bot detects distance |
 | ------------- | ------------- | ------------- |
@@ -28,6 +24,13 @@ Suggestions will be listed here by 11 May
 | :heavy_multiplication_x: Action Server Integration  | :heavy_multiplication_x: Action Server Integration  | :heavy_multiplication_x: Action Server Integration  |
 | :heavy_multiplication_x: SMACH Integration  | :heavy_multiplication_x: SMACH Integration  | :heavy_multiplication_x: SMACH Integration  |
 | :heavy_multiplication_x: Virtualenv Integration  | :heavy_multiplication_x: Virtualenv Integration  | :heavy_multiplication_x: Virtualenv Integration  |
+
+This is a SMACH state machine for the robot, it will be updated by 11 May.
+![GitHub Logo](/images/state_machine.png)
+
+## :soon: Contributions are welcome
+See table above for suggestions, then please contact me at thomaxarstens@gmail.com
+
 
 ## Development Goals
 2 May: Project will be usable by 11 May :sunflower:
