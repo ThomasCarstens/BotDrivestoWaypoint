@@ -21,13 +21,13 @@ This is a SMACH state machine for the robot, it will be updated by 11 May.
 ## :soon: Contributions are welcome
 Suggestions will be listed here by 11 May
 
-| Bot detects colour  | Bot detects distance |
-| ------------- | ------------- |
-| :heavy_check_mark: Gazebo-OpenCV Integration  | :heavy_check_mark: Gazebo-LiDAR Integration  |
-| :heavy_check_mark: OpenCV-ROS Integration  | :heavy_check_mark: LiDAR-ROS node Integration  |
-| :heavy_multiplication_x: Action Server Integration  | :heavy_multiplication_x: Action Server Integration  |
-| :heavy_multiplication_x: SMACH Integration  | :heavy_multiplication_x: SMACH Integration  |
-| :heavy_multiplication_x: Virtualenv Integration  | :heavy_multiplication_x: Virtualenv Integration  |
+| Bot can move  | Bot detects colour  | Bot detects distance |
+| ------------- | ------------- | ------------- |
+| :heavy_check_mark: Gazebo-Twist Integration  | :heavy_check_mark: Gazebo-OpenCV Integration  | :heavy_check_mark: Gazebo-LiDAR Integration  |
+| :heavy_check_mark: Twist-ROS Integration  | :heavy_check_mark: OpenCV-ROS Integration  | :heavy_check_mark: LiDAR-ROS node Integration  |
+| :heavy_multiplication_x: Action Server Integration  | :heavy_multiplication_x: Action Server Integration  | :heavy_multiplication_x: Action Server Integration  |
+| :heavy_multiplication_x: SMACH Integration  | :heavy_multiplication_x: SMACH Integration  | :heavy_multiplication_x: SMACH Integration  |
+| :heavy_multiplication_x: Virtualenv Integration  | :heavy_multiplication_x: Virtualenv Integration  | :heavy_multiplication_x: Virtualenv Integration  |
 
 ## Development Goals
 2 May: Project will be usable by 11 May :sunflower:
