@@ -32,8 +32,11 @@ This is a SMACH state machine for the robot, it will be updated by 11 May.
 ## :soon: Contributions are welcome
 2 May: Project will be usable by 11 May :sunflower:
 See suggestions, then please contact me at thomaxarstens@gmail.com
-- [x] this is a complete item
-- [ ] this is an incomplete item
+- [x] Bot detects face on webcam and in world
+- [ ] Bot detects hand gestures on webcam
+- [ ] Bot detects Alpha Pilot obstacle
+- [ ] Bot detects Unity3D Bot
+- [ ] Bot detects position of object
 
 ## The Steps to Usability
 
