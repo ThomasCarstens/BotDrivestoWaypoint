@@ -37,7 +37,7 @@ Suggestions will be listed here by 11 May
 
 ### Bot detects distance
 
-:heavy_check_mark: Gazebo-OpenCV Integration
+:heavy_check_mark: Gazebo-LiDAR Integration
 
 :heavy_check_mark: ROS node Integration
 
