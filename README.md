@@ -30,11 +30,12 @@ This is a SMACH state machine for the robot, it will be updated by 11 May.
 ![GitHub Logo](/images/state_machine.png)
 
 ## :soon: Contributions are welcome
-See table above for suggestions, then please contact me at thomaxarstens@gmail.com
-
-
-## Development Goals
 2 May: Project will be usable by 11 May :sunflower:
+See suggestions, then please contact me at thomaxarstens@gmail.com
+- [x] this is a complete item
+- [ ] this is an incomplete item
+
+## The Steps to Usability
 
 ### Project security
 :ballot_box_with_check: Upload project from ThomasCarstens PC
