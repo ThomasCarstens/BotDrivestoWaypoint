@@ -14,9 +14,6 @@ Ubuntu18.04->Python2.7->OpenCV4.1.1->ROS Melodic->Gazebo9 (see tutorials, they a
 ### :soon: How to run project
 updated by 11 May 
 
-### Official Changelog :sunflower:
-https://trello.com/b/6ZOWkQXU/stage-dvic
-
 ## :soon: Current Functionality
 
 
@@ -39,6 +36,10 @@ See suggestions, then please contact me at thomaxarstens@gmail.com
 - [ ] Bot detects Alpha Pilot obstacle
 - [ ] Bot detects Unity3D Bot
 - [ ] Bot detects position of object
+
+### Official Changelog :sunflower:
+https://trello.com/b/6ZOWkQXU/stage-dvic
+
 
 ## The Steps to Usability
 
