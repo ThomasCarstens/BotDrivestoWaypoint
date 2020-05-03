@@ -25,6 +25,15 @@ This is a SMACH state machine for the robot, it will be updated by 11 May.
 ## :soon: Contributions are welcome
 Suggestions will be listed here by 11 May
 
+| ### Bot detects colour  | ### Bot detects distance |
+| ------------- | ------------- |
+| :heavy_check_mark: Gazebo-OpenCV Integration  | :heavy_check_mark: Gazebo-LiDAR Integration  |
+| :heavy_check_mark: OpenCV-ROS Integration  | :heavy_check_mark: LiDAR-ROS node Integration  |
+| :heavy_multiplication_x: Action Server Integration  | :heavy_multiplication_x: Action Server Integration  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 ### Bot detects colour 
 
 :heavy_check_mark: Gazebo-OpenCV Integration
@@ -39,7 +48,7 @@ Suggestions will be listed here by 11 May
 
 :heavy_check_mark: Gazebo-LiDAR Integration
 
-:heavy_check_mark: ROS node Integration
+:heavy_check_mark: LiDAR-ROS node Integration
 
 :heavy_multiplication_x: Action Server Integration 
 
