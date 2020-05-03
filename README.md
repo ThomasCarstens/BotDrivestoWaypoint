@@ -39,7 +39,7 @@ See table above for suggestions, then please contact me at thomaxarstens@gmail.c
 ### Project security
 :ballot_box_with_check: Upload project from ThomasCarstens PC
 
-:black_square_button: Github files are setup for any machine that runs Ubuntu 18.04.
+:black_square_button: Users must fork .. and contributions are merged by pull request.
 
 ### Project demo
 :ballot_box_with_check: Can be demoed in 5min from ThomasCarstens PC but still needs work on...
@@ -50,6 +50,8 @@ See table above for suggestions, then please contact me at thomaxarstens@gmail.c
 
 ### Accommodating collaborations
 :ballot_box_with_check: Clarity about areas that will benefit from contributions (see list above.)
+
+:black_square_button: Github files are setup for any machine that runs Ubuntu 18.04.
 
 :black_square_button: Run project in virtualenv ((steps to be determined))
 
