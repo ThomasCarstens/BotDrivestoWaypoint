@@ -26,6 +26,7 @@ Suggestions will be listed here by 11 May
 | :heavy_check_mark: Gazebo-OpenCV Integration  | :heavy_check_mark: Gazebo-LiDAR Integration  |
 | :heavy_check_mark: OpenCV-ROS Integration  | :heavy_check_mark: LiDAR-ROS node Integration  |
 | :heavy_multiplication_x: Action Server Integration  | :heavy_multiplication_x: Action Server Integration  |
+| :heavy_multiplication_x: SMACH Integration  | :heavy_multiplication_x: SMACH Integration  |
 | :heavy_multiplication_x: Virtualenv Integration  | :heavy_multiplication_x: Virtualenv Integration  |
 
 ## Development Goals
