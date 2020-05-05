@@ -1,27 +1,66 @@
 # BotDrivestoWaypoint
 
-A custom wheeled robot in a postoffice world. When the DRIVE button is pressed, the robot detects the RED gate, and navigates toward it. Other functionality helps it get to its goal.
+A custom wheeled robot in Gazebo's postoffice world. When the DRIVE button is pressed, the robot detects the RED gate, and drives toward it. Other functionality helps it get to its goal.
 
-Demo: https://drive.google.com/file/d/1rYaJ3Cpv5fvkwflFxktoz0EMZJfkWf6i/view?usp=sharing
+### Demo
+#### Robot drives to goal: https://drive.google.com/file/d/1rYaJ3Cpv5fvkwflFxktoz0EMZJfkWf6i/view?usp=sharing
 
-Stack: ROS+Gazebo+Python+OpenCV
+### Project Stack
+Ubuntu18.04->Python2.7->OpenCV4.1.1->ROS Melodic->Gazebo9 (see tutorials, they are listed below)
+<p align="center">
+  <img width="460" height="300" src="/BotWaypointStack.PNG">
+</p>
 
-Changelog: https://trello.com/b/6ZOWkQXU/stage-dvic
+### :soon: How to run project
+updated by 11 May 
 
-More details in less than 10 days :smiley:
+## :soon: Current Functionality
 
-## Project security
+
+| Bot can move  | Bot detects colour  | Bot detects distance |
+| ------------- | ------------- | ------------- |
+| :heavy_check_mark: Gazebo-Twist Integration  | :heavy_check_mark: Gazebo-OpenCV Integration  | :heavy_check_mark: Gazebo-LiDAR Integration  |
+| :heavy_check_mark: Twist-ROS Integration  | :heavy_check_mark: OpenCV-ROS Integration  | :heavy_check_mark: LiDAR-ROS node Integration  |
+| :heavy_multiplication_x: Action Server Integration  | :heavy_multiplication_x: Action Server Integration  | :heavy_multiplication_x: Action Server Integration  |
+| :heavy_multiplication_x: SMACH Integration  | :heavy_multiplication_x: SMACH Integration  | :heavy_multiplication_x: SMACH Integration  |
+| :heavy_multiplication_x: Virtualenv Integration  | :heavy_multiplication_x: Virtualenv Integration  | :heavy_multiplication_x: Virtualenv Integration  |
+
+This is a SMACH state machine for the robot, it will be updated by 11 May.
+
+![GitHub Logo](/images/state_machine.png)
+
+## :soon: Contributions are welcome
+2 May: Project will be usable by 11 May :sunflower:
+See suggestions, then please contact me at thomaxarstens@gmail.com
+- [x] Bot detects face on webcam and in world
+- [ ] Bot detects hand gestures on webcam
+- [ ] Bot detects Alpha Pilot obstacle
+- [ ] Bot detects Unity3D Bot
+- [ ] Bot detects position of object
+
+### Official Changelog :sunflower:
+https://trello.com/b/6ZOWkQXU/stage-dvic
+
+![Changelog Board](/Changelog.PNG)
+
+## The Steps to Usability
+
+### Project security
 :ballot_box_with_check: Upload project from ThomasCarstens PC
 
-## Project demo
-:ballot_box_with_check: Demo is possible but...
+:ballot_box_with_check: Collaborators must fork https://github.com/AlphaPilotFrance/BotDrivestoWaypoint and contributions are merged by pull request.
+
+### Project demo
+:ballot_box_with_check: Can be demoed in 5min from ThomasCarstens PC but still needs work on...
 
 :black_square_button: Integrating the workspaces
 
 :black_square_button: Creating one launchfile
 
-## Accommodating collaborations
-:ballot_box_with_check: Clarity about areas that will benefit from contributions (see picture below.)
+### Accommodating collaborations
+:ballot_box_with_check: Clarity about areas that will benefit from contributions (see list above.)
+
+:black_square_button: Github files are setup for any machine that runs Ubuntu 18.04.
 
 :black_square_button: Run project in virtualenv ((steps to be determined))
 
@@ -31,4 +70,7 @@ More details in less than 10 days :smiley:
 
 :black_square_button: One tutorial for HOW to collaborate (Github, Unit Tests e.g. does it work and does it integrate)
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/images/0NSBKZe.gif)
+
+
+
