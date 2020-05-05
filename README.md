@@ -27,7 +27,7 @@ updated by 11 May
 
 This is a SMACH state machine for the robot, it will be updated by 11 May.
 
-![GitHub Logo](/images/state_machine.png)
+![GitHub Logo](/images/minimal_statemachine.png)
 
 ## :soon: Contributions are welcome
 2 May: Project will be usable by 11 May :sunflower:
