@@ -25,9 +25,9 @@ On hold: leave some kind of sign if interested.
 | :heavy_check_mark: SMACH Integration  | :heavy_check_mark: SMACH Integration  | :heavy_check_mark: SMACH Integration  |
 
 
-## :soon: Contributions are welcome
+## :soon: Things to try out
 
-See suggestions, then please contact me at thomaxarstens@gmail.com
+If you have any suggestions, please contact me at thomaxarstens@gmail.com
 
 :heavy_check_mark: Bot detects face on webcam and in world
 
@@ -42,16 +42,15 @@ See suggestions, then please contact me at thomaxarstens@gmail.com
 This is a SMACH state machine for the robot.
 On hold: leave some kind of sign if interested.
 
-![Current statemachine](/minimal_statemachine.png)
-
-
+<p align="center">
+  <img src="/minimal_statemachine.png">
+</p>
 
 ### Official Changelog :sunflower:
 https://trello.com/b/6ZOWkQXU/stage-dvic
 
 ![Changelog Board](/Changelog.PNG)
 
-![GitHub Logo](/images/0NSBKZe.gif)
 
 
 
