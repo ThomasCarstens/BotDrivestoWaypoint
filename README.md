@@ -12,7 +12,7 @@ Ubuntu18.04->Python2.7->OpenCV4.1.1->ROS Melodic->Gazebo9 (see tutorials, they a
 </p>
 
 ### :soon: How to run project
-updated by 11 May 
+On hold: leave some kind of sign if interested.
 
 ## :soon: Current Functionality
 
@@ -21,22 +21,25 @@ updated by 11 May
 | ------------- | ------------- | ------------- |
 | :heavy_check_mark: Gazebo-Twist Integration  | :heavy_check_mark: Gazebo-OpenCV Integration  | :heavy_check_mark: Gazebo-LiDAR Integration  |
 | :heavy_check_mark: Twist-ROS Integration  | :heavy_check_mark: OpenCV-ROS Integration  | :heavy_check_mark: LiDAR-ROS node Integration  |
-| :heavy_multiplication_x: Action Server Integration  | :heavy_multiplication_x: Action Server Integration  | :heavy_multiplication_x: Action Server Integration  |
-| :heavy_multiplication_x: SMACH Integration  | :heavy_multiplication_x: SMACH Integration  | :heavy_multiplication_x: SMACH Integration  |
-| :heavy_multiplication_x: Virtualenv Integration  | :heavy_multiplication_x: Virtualenv Integration  | :heavy_multiplication_x: Virtualenv Integration  |
+| :heavy_check_mark: Action Server Integration  | :heavy_check_mark: Action Server Integration  | :heavy_check_mark: Action Server Integration  |
+| :heavy_check_mark: SMACH Integration  | :heavy_check_mark: SMACH Integration  | :heavy_check_mark: SMACH Integration  |
 
-This is a SMACH state machine for the robot, it will be updated by 11 May.
-
-![Current statemachine](/minimal_statemachine.png)
 
 ## :soon: Contributions are welcome
-2 May: Project will be usable by 11 May :sunflower:
+
 See suggestions, then please contact me at thomaxarstens@gmail.com
 - [x] Bot detects face on webcam and in world
 - [ ] Bot detects hand gestures on webcam
 - [ ] Bot detects Alpha Pilot obstacle
 - [ ] Bot detects Unity3D Bot
 - [ ] Bot detects position of object
+
+This is a SMACH state machine for the robot.
+On hold: leave some kind of sign if interested.
+
+![Current statemachine](/minimal_statemachine.png)
+
+
 
 ### Official Changelog :sunflower:
 https://trello.com/b/6ZOWkQXU/stage-dvic
