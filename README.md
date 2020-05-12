@@ -8,7 +8,7 @@ A custom wheeled robot in Gazebo's postoffice world. When the DRIVE button is pr
 ### Project Stack
 Ubuntu18.04->Python2.7->OpenCV4.1.1->ROS Melodic->Gazebo9 (see tutorials, they are listed below)
 <p align="center">
-  <img width="460" height="300" src="/tutorials.PNG">
+  <img src="/tutorials.PNG">
 </p>
 
 ### :soon: How to run project
@@ -45,6 +45,8 @@ https://trello.com/b/6ZOWkQXU/stage-dvic
 
 ## The Steps to Usability
 
+![Current statemachine](/collaborate.PNG)
+
 ### Project security
 :ballot_box_with_check: Upload project from ThomasCarstens PC
 
@@ -62,7 +64,7 @@ https://trello.com/b/6ZOWkQXU/stage-dvic
 
 :black_square_button: Github files are setup for any machine that runs Ubuntu 18.04.
 
-:black_square_button: Run project in virtualenv ((steps to be determined))
+:black_square_button: Run project on GPU
 
 :black_square_button: One tutorial for HOW to run project (virtualenv, command line)
 
