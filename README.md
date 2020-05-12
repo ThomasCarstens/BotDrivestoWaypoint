@@ -6,7 +6,7 @@ A custom wheeled robot in Gazebo's postoffice world. When the DRIVE button is pr
 #### Robot drives to goal: https://drive.google.com/file/d/1rYaJ3Cpv5fvkwflFxktoz0EMZJfkWf6i/view?usp=sharing
 
 ### Project Stack
-Ubuntu18.04->Python2.7->OpenCV4.1.1->ROS Melodic->Gazebo9 (see tutorials, they are listed below)
+Ubuntu18.04->Python2.7->OpenCV4.1.1->ROS Melodic->Gazebo9 
 <p align="center">
   <img src="/tutorials.PNG">
 </p>
@@ -28,10 +28,15 @@ On hold: leave some kind of sign if interested.
 ## :soon: Contributions are welcome
 
 See suggestions, then please contact me at thomaxarstens@gmail.com
+
 :heavy_check_mark: Bot detects face on webcam and in world
+
 :black_square_button: Bot detects hand gestures on webcam
+
 :black_square_button: Bot detects Alpha Pilot obstacle
+
 :black_square_button: Bot detects Unity3D Bot
+
 :black_square_button: Bot detects position of object
 
 This is a SMACH state machine for the robot.
