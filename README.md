@@ -28,11 +28,11 @@ On hold: leave some kind of sign if interested.
 ## :soon: Contributions are welcome
 
 See suggestions, then please contact me at thomaxarstens@gmail.com
-- [x] Bot detects face on webcam and in world
-- [ ] Bot detects hand gestures on webcam
-- [ ] Bot detects Alpha Pilot obstacle
-- [ ] Bot detects Unity3D Bot
-- [ ] Bot detects position of object
+:heavy_check_mark: Bot detects face on webcam and in world
+:black_square_button: Bot detects hand gestures on webcam
+:black_square_button: Bot detects Alpha Pilot obstacle
+:black_square_button: Bot detects Unity3D Bot
+:black_square_button: Bot detects position of object
 
 This is a SMACH state machine for the robot.
 On hold: leave some kind of sign if interested.
@@ -68,12 +68,6 @@ https://trello.com/b/6ZOWkQXU/stage-dvic
 :black_square_button: Github files are setup for any machine that runs Ubuntu 18.04.
 
 :black_square_button: Run project on GPU
-
-:black_square_button: One tutorial for HOW to run project (virtualenv, command line)
-
-:black_square_button: One tutorial for WHERE to add collaborations (project structure)
-
-:black_square_button: One tutorial for HOW to collaborate (Github, Unit Tests e.g. does it work and does it integrate)
 
 ![GitHub Logo](/images/0NSBKZe.gif)
 
