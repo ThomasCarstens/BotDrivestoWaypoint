@@ -46,29 +46,6 @@ https://trello.com/b/6ZOWkQXU/stage-dvic
 
 ![Changelog Board](/Changelog.PNG)
 
-## The Steps to Usability
-
-![Current statemachine](/collaborate.PNG)
-
-### Project security
-:ballot_box_with_check: Upload project from ThomasCarstens PC
-
-:ballot_box_with_check: Collaborators must fork https://github.com/AlphaPilotFrance/BotDrivestoWaypoint and contributions are merged by pull request.
-
-### Project demo
-:ballot_box_with_check: Can be demoed in 5min from ThomasCarstens PC but still needs work on...
-
-:black_square_button: Integrating the workspaces
-
-:black_square_button: Creating one launchfile
-
-### Accommodating collaborations
-:ballot_box_with_check: Clarity about areas that will benefit from contributions (see list above.)
-
-:black_square_button: Github files are setup for any machine that runs Ubuntu 18.04.
-
-:black_square_button: Run project on GPU
-
 ![GitHub Logo](/images/0NSBKZe.gif)
 
 
