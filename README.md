@@ -24,6 +24,12 @@ On hold: leave some kind of sign if interested.
 | :heavy_check_mark: Action Server Integration  | :heavy_check_mark: Action Server Integration  | :heavy_check_mark: Action Server Integration  |
 | :heavy_check_mark: SMACH Integration  | :heavy_check_mark: SMACH Integration  | :heavy_check_mark: SMACH Integration  |
 
+This is a SMACH state machine for the robot.
+On hold: leave some kind of sign if interested.
+
+<p align="center">
+  <img src="/minimal_statemachine.png">
+</p>
 
 ## :soon: Things to try out
 
@@ -39,12 +45,7 @@ If you have any suggestions, please contact me at thomaxarstens@gmail.com
 
 :black_square_button: Bot detects position of object
 
-This is a SMACH state machine for the robot.
-On hold: leave some kind of sign if interested.
 
-<p align="center">
-  <img src="/minimal_statemachine.png">
-</p>
 
 ### Official Changelog :sunflower:
 https://trello.com/b/6ZOWkQXU/stage-dvic
